@@ -16,6 +16,6 @@ public class TestUrl {
 
     @Test
     public void testHelloJenkins(){
-        Assert.assertEquals(testController.test(), "hello jenkins");
+        Assert.assertEquals(testController.test(), "hello jenkinsss");
     }
 }
