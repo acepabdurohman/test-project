@@ -1,0 +1,4 @@
+---
+applications:
+- name: test-project
+  path: target/test-project-0.0.1-SNAPSHOT.jar
