@@ -18,4 +18,9 @@ public class TestUrl {
     public void testHelloJenkins(){
         Assert.assertEquals(testController.test(), "hello jenkins error");
     }
+
+    @Test
+    public void testPerubahan(){
+
+    }
 }
